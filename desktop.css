@@ -1,0 +1,15 @@
+ h1 {
+color: brown;
+text-align: center;
+    }
+    header img{
+        width: 100%;
+    }
+main{
+    width: 60%;
+    margin: auto;
+}
+p{
+    font-size: 14px;
+    text-align: justify;
+}
